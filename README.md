@@ -1,2 +1,2 @@
-# react-snapshot_gallery
+# react-snapshot-gallery
 Assignment 2 for PreProjectModule
